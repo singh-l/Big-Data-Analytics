@@ -5,3 +5,26 @@ Although, these are done in Unix Macintosh with Mojave OS 2019 edition,
 the steps are generic for any Linux system. Most of the things remain same across flavours of linux, 
 but there may be slight differences in folder locations depending on the flavour 
 or procedure followed while setting up the Hadoop ecosystem, which needs to taken care of separately.
+
+1. Hive assignment can be found here -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_HIVE_ASSIGNMENT.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/> 
+2. Pig assignment can be found here -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_PIG_ASSIGNMENT.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/>
+3. Spark assignment can be found here -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_SPARK_ASSIGNMENT.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/>
+4. Stock Prediction Assignment -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_STOCK_PREDICTION.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/>
+5. Climate Sentiment Assignment -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_CLIMATE_SENTIMENT_ASSIGNMENT.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/>
+6. General assignments -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_ASSIGNMENT_new.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+  &nbsp
+<a href = "hhttps://github.com/singh-l/Big-Data-Analytics/blob/master/SID_16103104_BDA_Assignment.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+  </br>
+  
+7. General Setup Docs -><a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/Hadoop_Install_MAC_Doc.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+&nbsp
+<a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SPARK_Setting%20up%20development%20Environment.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+&nbsp
+<a href = "https://github.com/singh-l/Big-Data-Analytics/blob/master/SPARK_SCALA_SETUP_MACOS.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
+<br/>
+
