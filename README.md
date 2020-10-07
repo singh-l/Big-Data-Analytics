@@ -1,5 +1,5 @@
 # Big-Data-Analytics
-### Contains implementation done in Big Data Analytics course.
+Contains implementation done in Big Data Analytics course.
 </br>
 </br>
 <img src="https://mobinspire.com/wp-content/uploads/2019/09/Big-Data-Processing.png">
