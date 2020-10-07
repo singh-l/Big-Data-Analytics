@@ -1,5 +1,6 @@
 # Big-Data-Analytics
 Contains implementation done in Big Data Analytics course.
+<img src="https://mobinspire.com/wp-content/uploads/2019/09/Big-Data-Processing.png">
 # NOTE:
 Although, these are done in Unix Macintosh with Mojave OS 2019 edition, 
 the steps are generic for any Linux system. Most of the things remain same across flavours of linux, 
